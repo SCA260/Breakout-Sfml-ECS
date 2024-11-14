@@ -45,6 +45,9 @@ int main() {
 
         if (destroyed_bricks == 40 || fallen_balls == 4) {
             std::cout << "Game Over" << std::endl;
+            if (destroyed_bricks == 40) {
+                std::cout << "YOU WIN !" ;
+            }
             window.close();
         }
 

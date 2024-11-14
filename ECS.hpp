@@ -113,6 +113,4 @@ void ColliderSystem(Entity& ball, Entity& rectangle, float window_width, float w
     }
 }
 
-
-
 #endif ECS_HPP
