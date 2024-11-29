@@ -3,7 +3,7 @@
 
 // window 
 const float window_height = 800.f;
-const float window_width = 600.f;
+const float window_width = 600.f;	
 //ball
 float ball_size = 40.f;
 float ball_initial_x = window_width / 2 - ball_size / 2;
